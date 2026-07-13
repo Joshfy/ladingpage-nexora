@@ -11,7 +11,7 @@ export default function Footer() {
           <h2 className="text-4xl md:text-6xl font-bold tracking-tighter leading-[1.02] mb-6">Construyamos algo con visión de largo plazo.</h2>
           <p className="text-white/60 text-lg max-w-xl">Conversemos sobre cómo tu proyecto puede sumarse al ecosistema Nexora Group, o cómo podemos construir algo nuevo juntos.</p>
         </div>
-        <a href="mailto:hola@nexoragroup.com" className="inline-flex items-center gap-3 px-10 py-5 bg-brand-sky text-white font-bold tracking-wider uppercase text-sm hover:bg-white hover:text-brand-navy transition-colors whitespace-nowrap">
+        <a href="mailto:josuedadoes@gmail.com" className="inline-flex items-center gap-3 px-10 py-5 bg-brand-sky text-white font-bold tracking-wider uppercase text-sm hover:bg-white hover:text-brand-navy transition-colors whitespace-nowrap">
           Contactar dirección 
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right w-4 h-4" aria-hidden="true">
             <path d="M5 12h14"></path>
@@ -25,7 +25,7 @@ export default function Footer() {
         </div>
         <div>
           <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-white/40 mb-3">Dirección</div>
-          <a href="mailto:hola@nexoragroup.com" className="text-white/80 hover:text-white transition-colors">hola@nexoragroup.com</a>
+          <a href="mailto:josuedadoes@gmail.com" className="text-white/80 hover:text-white transition-colors">josuedadoes@gmail.com</a>
         </div>
         <div>
           <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-white/40 mb-3">Ecosistema</div>
